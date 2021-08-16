@@ -6,17 +6,13 @@ Check out the live chat app at https://partner-video-chat.netlify.app/.
 
 ## App Overview
 Main Page:
-
+![partnerVideoChat](https://user-images.githubusercontent.com/56233967/129583315-a481859f-55aa-4118-9a79-b99234b12544.jpg)
 
 Functionality:
-* Sign up using Chat Engine https://chatengine.io/, admin has to sign up for the project members.
-* Add different chat section on the left of the app or in Chat Engine.
-* Delete chat section under the Option tag on the right.
-* Send photos.
-* Send text messages.
-* Add signed-up members to the chat under the People tag on the right.
-* Checkout all the photos sent in the chat section under the Photos section on the right.
-
+* Enable your camera and audio when you enter the website.
+* Enter your username for the app at the main screen.
+* Call your friend by giving him/her your clipboard id.
+* Answer your friend by pasting his/her id.
 
 
 ## Available Scripts
