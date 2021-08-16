@@ -19,7 +19,7 @@ app.get("/", (req, res) => { // "/" is the root route
     res.send("Server is running.");
 });
 
-io.on('connnection', (socket) => {
+io.on('connection', (socket) => {
     // i join, gives our own id on the frontend
     socket.emit('me', socket.id); 
     // broadcast a message
