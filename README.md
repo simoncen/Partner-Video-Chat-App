@@ -5,14 +5,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Check out the live chat app at https://partner-video-chat.netlify.app/.
 
 ## App Overview
-Main Page:
-![1629807566503](https://user-images.githubusercontent.com/56233967/130615172-fc05a10b-c8c5-4368-ba26-784bd3747d3a.png)
-
 Functionality:
 * Enable your camera and audio when you enter the website.
 * Enter your username for the app at the main screen.
 * Call your friend by giving him/her your clipboard id.
 * Answer your friend by pasting his/her id.
+
+Main Page:
+<img width="918" alt="Screen Shot 2021-08-24 at 8 25 28 PM" src="https://user-images.githubusercontent.com/56233967/130615172-fc05a10b-c8c5-4368-ba26-784bd3747d3a.png">
+<img width="918" alt="Screen Shot 2021-08-24 at 8 29 24 PM" src="https://user-images.githubusercontent.com/56233967/130616547-70c3b827-73c3-4256-b514-a1a35f494d03.png">
+<img width="918" alt="Screen Shot 2021-08-24 at 8 25 28 PM" src="https://user-images.githubusercontent.com/56233967/130615981-ff0d50c0-2572-48d2-b6ef-496e1d8ec0bd.png">
 
 
 ## Available Scripts
