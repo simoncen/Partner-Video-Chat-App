@@ -6,7 +6,7 @@ Check out the live chat app at https://partner-video-chat.netlify.app/.
 
 ## App Overview
 Main Page:
-![partnerVideoChat](https://user-images.githubusercontent.com/56233967/129583315-a481859f-55aa-4118-9a79-b99234b12544.jpg)
+![1629807566503](https://user-images.githubusercontent.com/56233967/130615172-fc05a10b-c8c5-4368-ba26-784bd3747d3a.png)
 
 Functionality:
 * Enable your camera and audio when you enter the website.
