@@ -1,10 +1,9 @@
-# Getting Started with Partner Video Chat App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Check out the live chat app at https://partner-video-chat.netlify.app/.
 
-## App Overview
+## Partner Video Chat App Project Description
+
 Functionality:
 * Enable your camera and audio when you enter the website.
 * Enter your username for the app at the main screen.
